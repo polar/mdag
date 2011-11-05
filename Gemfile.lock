@@ -287,6 +287,7 @@ DEPENDENCIES
   capistrano
   coffee-rails (~> 3.1.1)
   community_engine (= 2.0.0.beta)!
+  execjs
   jquery-rails
   json
   mysql2

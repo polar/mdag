@@ -5,10 +5,10 @@
 #   gem 'sqlite3'
 development:
   adapter: mysql2
-  database: mgad_dev
+  database: mdag_dev
   host: localhost
-  username: mgad
-  password: mgad
+  username: mdag
+  password: mdag
   pool: 5
   timeout: 5000
 

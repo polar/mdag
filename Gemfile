@@ -33,3 +33,5 @@ gem 'jquery-rails'
  gem 'ruby-debug'
 
 gem 'community_engine', '2.0.0.beta', :git => 'https://github.com/bborn/communityengine.git', :branch => 'rails3'
+
+gem 'execjs'
